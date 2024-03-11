@@ -9,6 +9,7 @@
   "blocked":[
   ],
   "free":[
-  {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"us1.freeopenvpn.online","active":"true","signal":"a"},
+  {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"67.168.8.249 ","active":"true","signal":"a"},
+  {"id":1, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"67.168.8.249 ","active":"true","signal":"b"},
 ]
 }
